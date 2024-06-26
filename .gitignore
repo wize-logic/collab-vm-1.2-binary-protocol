@@ -11,3 +11,7 @@
 
 #!.yarn/cache
 .pnp.*
+
+.parcel-cache/
+dist/
+node_modules/

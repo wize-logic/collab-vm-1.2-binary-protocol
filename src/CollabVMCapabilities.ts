@@ -1,4 +1,4 @@
-export default class CollabVMCapabilities {
+export class CollabVMCapabilities {
     // Support for JPEG screen rects in binary msgpack format
     bin: boolean;
 

@@ -1,4 +1,4 @@
-export default interface CollabVMRectMessage {
+export interface CollabVMRectMessage {
     x: number;
     y: number;
     data: Uint8Array;

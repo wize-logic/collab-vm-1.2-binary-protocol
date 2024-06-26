@@ -1,4 +1,4 @@
-import CollabVMRectMessage from "./CollabVMRectMessage.js";
+import { CollabVMRectMessage } from "./CollabVMRectMessage.js";
 
 export interface CollabVMProtocolMessage {
     type: CollabVMProtocolMessageType;
