@@ -1,0 +1,8 @@
+{
+  "name": "collab-vm-1.2-binary-protocol",
+  "author": "Computernewb Development Team",
+  "description": "Common schema for the CollabVM 1.2 Binary Protocol",
+  "license": "MIT",
+  "type": "module",
+  "packageManager": "yarn@4.2.2"
+}
